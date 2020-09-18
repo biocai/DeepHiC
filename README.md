@@ -6,4 +6,4 @@ The average length of the sequences of restriction fragments was 3,614 bp. We fi
 
 Nucleotides A, T, C and G are encoded as [1,0,0,0], [0,1,0,0], [0,0,1,0] and [0,0,0,1]
 
-For better input, we saved the matrix (4000*16) as a grey image (tiff format).
+For better input, we saved the matrix (40000*16) as a grey image (png format).
